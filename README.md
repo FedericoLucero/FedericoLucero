@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://i.gifer.com/origin/3a/3ad09d4905511990cccc98d904bd1e94.gif
 
 <!--
 **FedericoLucero/FedericoLucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
